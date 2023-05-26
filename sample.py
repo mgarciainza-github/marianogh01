@@ -1,4 +1,4 @@
-#script de pyton de prueba
+# script de pyton de prueba
 a="!"
 print(f"hola{a}")
 
@@ -8,3 +8,4 @@ for i in range (10):
         print(f'{i},{j} ', end=' ')
     print('')
 print("fin")
+# comentario 1
