@@ -2,7 +2,7 @@
 Instrucciones para set up de git en ubuntu con github (26 de mayo de 2023)
 Estoy en la laptop Yoga510 desde cero
 1) en un terminal: ssh-keygen (puede omitirse si uno ya tiene una clave generada...)
-2) copiar el contenido de ./ssh id_rsa.pub
+2) copiar el contenido de ./ssh/id_rsa.pub
 3) abrir github.com, click en usuario >> settings >> SSH and GPG keys >> New SSH Key: pegar la clave
 4) ssh -T git@github.com debe devolver: Hi mgarciainza-github! You've successfully authenticated, but GitHub does not provide shell access.
 5) crear directorio en PC local y entrar
