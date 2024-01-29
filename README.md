@@ -1,4 +1,4 @@
-# marianogh01
+# marianogh01: Instrucciones básicas
 Instrucciones para set up de git en ubuntu con github (26 de mayo de 2023)
 Estoy en la laptop Yoga510 desde cero
 1) en un terminal: ssh-keygen (puede omitirse si uno ya tiene una clave generada...)
