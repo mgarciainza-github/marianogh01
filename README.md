@@ -16,3 +16,22 @@ Estoy en la laptop Yoga510 desde cero
 13) git commit -m "Se agregó archivo de python"
 14) git remote (no lo hice es para saber a dónde hacer el push?? ver: https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/ )
 15) git push
+
+
+# Ejemplo creación de repo: marianogh02
+
+Acabo de crear un repo nuevo online.
+
+Para empezar github me dice que haga lo siguiente:
+
+echo "# marianogh02" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin git@github.com:mgarciainza-github/marianogh02.git
